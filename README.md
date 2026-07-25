@@ -1,3 +1,3 @@
-# C-_IDE
+# C++ IDE
 用C++编写的C++编译器。
 环境:Windows
